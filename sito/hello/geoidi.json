@@ -1,0 +1,1126 @@
+[
+    {
+        "name": "Africa (AGP2007)",
+        "links": [
+            "public/AGP2007_20160415.isg"
+        ]
+    },
+    {
+        "name": "Africa (AFRgeo2019)",
+        "links": [
+            "public/Africa_2019_AFRGEOID2019_gravG_20210625.isg"
+        ]
+    },
+    {
+        "name": "Alaska (ALASKA94) ",
+        "links": [
+            "public/ALA94_20160419.isg"
+        ]
+    },
+    {
+        "name": "Alaska (GEOID96) ",
+        "links": [
+            "public/ALASKA_GEOID96_20160414.isg"
+        ]
+    },
+    {
+        "name": "Alaska (GEOID99) ",
+        "links": [
+            "public/GEOID99a_20161106.isg"
+        ]
+    },
+    {
+        "name": "Alaska (USGG2003/GEOID03) ",
+        "links": [
+            "public/USGG2003a_20161106.isg",
+            "public/GEOID03a_20161110.isg"
+        ]
+    },
+    {
+        "name": "Alaska (GEOID06) ",
+        "links": [
+            "public/GEOID06a_20161105.isg"
+        ]
+    },
+    {
+        "name": "Alaska (USGG2009/GEOID09) ",
+        "links": [
+            "public/USGG2009a_20161106.isg",
+            "public/GEOID09a_20161105.isg"
+        ]
+    },
+    {
+        "name": "Alaska (USGG2012/GEOID12B) ",
+        "links": [
+            "public/GEOID12Ba_20161106.isg",
+            "public/USGG2012a_20161106.isg"
+        ]
+    },
+    {
+        "name": "American Samoa Islands (USGG2009/GEOID09)\r\n                    ",
+        "links": [
+            "public/USGG2009s_20161121.isg",
+            "public/GEOID09s_20161111.isg"
+        ]
+    },
+    {
+        "name": "American Samoa Islands (USGG2012/GEOID12B)\r\n                    ",
+        "links": [
+            "public/USGG2012s_20161121.isg",
+            "public/GEOID12Bs_20161111.isg"
+        ]
+    },
+    {
+        "name": " American Samoa Islands (xGEOID20A)\r\n                    ",
+        "links": [
+            "public/Samoa_2020_xGEOID20A_gravG_20210623.isg"
+        ]
+    },
+    {
+        "name": "Antarctic ",
+        "links": [
+            "public/ANTARCTIC_20160928.isg"
+        ]
+    },
+    {
+        "name": "Arctic (ARCGP) ",
+        "links": [
+            "public/ARCGP_20160419.isg"
+        ]
+    },
+    {
+        "name": "Arctic ",
+        "links": [
+            "public/AGP_20160725.isg"
+        ]
+    },
+    {
+        "name": "Argentina (GAR) ",
+        "links": [
+            "public/GAR_20151209.isg"
+        ]
+    },
+    {
+        "name": "Argentina (GEOIDEAR16) ",
+        "links": [
+            "public/GEOIDEAR16_20160419.isg"
+        ]
+    },
+    {
+        "name": "Attica Basin - Greece (GEOID2015) ",
+        "links": [
+            "public/GEOID2015_20160222.isg"
+        ]
+    },
+    {
+        "name": "Australia (AUSGEOID93)",
+        "links": [
+            "public/AUSGeoid93_20170403.isg"
+        ]
+    },
+    {
+        "name": "Australia (AUSGEOID98)",
+        "links": [
+            "public/AUSGeoid98_20160419.isg"
+        ]
+    },
+    {
+        "name": "Australia (AUSGEOID09)",
+        "links": [
+            "public/AUSGEOID09_20151214.isg"
+        ]
+    },
+    {
+        "name": " Australia (AUSGEOID2020)",
+        "links": [
+            "public/AUSGeoid2020_20191017.isg"
+        ]
+    },
+    {
+        "name": "Auvergne - France (QGAuvergne) ",
+        "links": [
+            "public/QGAuvergne_20161103.isg"
+        ]
+    },
+    {
+        "name": "Auvergne - France (AuvGeoid2017-UNB) ",
+        "links": []
+    },
+    {
+        "name": "Auvergne - France (AuvGeoid2019-UNB-LS) ",
+        "links": []
+    },
+    {
+        "name": "Auvergne - France (Auvergne-ITUGRG2021)",
+        "links": [
+            "public/Auvergne_2021_Auvergne-ITUGRG2021_gravG_20210910.isg"
+        ]
+    },
+    {
+        "name": "Baltic\r\n                      Region",
+        "links": [
+            "public/BALTIC REGION_20151209.isg"
+        ]
+    },
+    {
+        "name": "Baltic Region and Nordic Area (NKG96)",
+        "links": [
+            "public/NKG96_20170403.isg"
+        ]
+    },
+    {
+        "name": "Baltic Region and Nordic Area (NKG2004)\r\n                      ",
+        "links": [
+            "public/NKG2004_20170403.isg"
+        ]
+    },
+    {
+        "name": "Baltic Region and Nordic Area (NKG2015)\r\n                      ",
+        "links": [
+            "public/NKG2015_20170328.isg"
+        ]
+    },
+    {
+        "name": "Belgium (hBG03)",
+        "links": []
+    },
+    {
+        "name": "Bolivia (BOLGEO)",
+        "links": [
+            "public/BOLGEO_20170606.isg"
+        ]
+    },
+    {
+        "name": "Brazil (MAPGEO2004)",
+        "links": [
+            "public/Brazil_2004_MAPGEO2004_gravG_20201228.isg"
+        ]
+    },
+    {
+        "name": "Brazil (MAPGEO2010)",
+        "links": [
+            "public/Brazil_2010_MAPGEO2010_gravG_20201228.isg"
+        ]
+    },
+    {
+        "name": "Brazil (MAPGEO2015)",
+        "links": [
+            "public/Brazil_2015_MAPGEO2015_gravG_20201222.isg"
+        ]
+    },
+    {
+        "name": "Brunei ",
+        "links": [
+            "public/BRUNEI_20151209.isg"
+        ]
+    },
+    {
+        "name": "Caribbean (CARIB97) ",
+        "links": [
+            "public/CARIB97_20160419.isg"
+        ]
+    },
+    {
+        "name": "Colombia (QGEOCOL2004/GEOCOL2004) ",
+        "links": [
+            "public/QGEOCOL2004_20191118.isg",
+            "public/GEOCOL2004_20191118.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColFFTDB-CGS2019) ",
+        "links": [
+            "public/Colorado_2019_ColFFTDB-CGS2019_gravQ_20220518.isg",
+            "public/Colorado_2019_ColFFTDB-CGS2019_gravG_20220518.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColFFTWG-Curtin2019) ",
+        "links": [
+            "public/Colorado_2019_ColFFTWG-Curtin2019_gravQ_20211202.isg",
+            "public/Colorado_2019_ColFFTWG-Curtin2019_gravG_20211202.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColFFTWG-DTU2019) ",
+        "links": [
+            "public/Colorado_2019_ColFFTWG-DTU2019_gravQ_20220228.isg",
+            "public/Colorado_2019_ColFFTWG-DTU2019_gravG_20220228.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColLSMSA-GEOF2019)",
+        "links": [
+            "public/Colorado_2019_ColLSMSA-GEOF2019_gravQ_20210907.isg",
+            "public/Colorado_2019_ColLSMSA-GEOF2019_gravG_20210907.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColLSMSA-KTH2019)",
+        "links": [
+            "public/Colorado_2019_ColLSMSA-KTH2019_gravQ_20210614.isg",
+            "public/Colorado_2019_ColLSMSA-KTH2019_gravG_20210614.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColSCA-CASM2019) ",
+        "links": [
+            "public/Colorado_2019_ColSCA-CASM2019_gravQ_20211027.isg",
+            "public/Colorado_2019_ColSCA-CASM2019_gravG_20211027.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColSHAWG-NGS2019) ",
+        "links": [
+            "public/Colorado_2019_ColSHAWG-NGS2019_gravQ_20220321.isg",
+            "public/Colorado_2019_ColSHAWG-NGS2019_gravG_20220321.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColSRBF-DGFI2019) ",
+        "links": [
+            "public/Colorado_2019_ColSRBF-DGFI2019_gravQ_20211011.isg",
+            "public/Colorado_2019_ColSRBF-DGFI2019_gravG_20211011.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColRLSC-IAPG2019)",
+        "links": [
+            "public/Colorado_2019_ColRLSC-IAPG2019_gravQ_20210531.isg",
+            "public/Colorado_2019_ColRLSC-IAPG2019_gravG_20210531.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColUNBSH2019) ",
+        "links": [
+            "public/Colorado_2019_ColUNBSH-GSI2019_gravQ_20211125.isg",
+            "public/Colorado_2019_ColUNBSH-GSI2019_gravG_20211125.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColWRRT2019) ",
+        "links": []
+    },
+    {
+        "name": "Colorado - USA (ColFFTWG2020) ",
+        "links": [
+            "public/Colorado_2020_ColFFTWG2020_gravQ_20200908.isg",
+            "public/Colorado_2020_ColFFTWG2020_gravG_20200908.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColWLSC2020) ",
+        "links": [
+            "public/Colorado_2020_ColWLSC2020_gravQ_20200715.isg",
+            "public/Colorado_2020_ColWLSC2020_gravG_20200715.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColLSMSA2020) ",
+        "links": [
+            "public/Colorado_2020_ColLSMSA2020_gravQ_20210420.isg",
+            "public/Colorado_2020_ColLSMSA2020_gravG_20210420.isg"
+        ]
+    },
+    {
+        "name": "Colorado - USA (ColLSMHA2021) ",
+        "links": [
+            "public/Colorado_2021_ColLSMHA2021_gravQ_20210420.isg",
+            "public/Colorado_2021_ColLSMHA2021_gravG_20210420.isg"
+        ]
+    },
+    {
+        "name": "Corsica (GGF97) ",
+        "links": [
+            "public/GGF97COR_20161103.isg"
+        ]
+    },
+    {
+        "name": "Corsica (QGC02) ",
+        "links": [
+            "public/QGC02A_20161103.isg"
+        ]
+    },
+    {
+        "name": "Corsica (RAC09) ",
+        "links": [
+            "public/RAC09_20161103.isg"
+        ]
+    },
+    {
+        "name": "Czech Republic (CR2000) ",
+        "links": [
+            "public/CR2000_20151209.isg"
+        ]
+    },
+    {
+        "name": "Czech Republic (CR2005) ",
+        "links": [
+            "public/CR2005_20151209.isg"
+        ]
+    },
+    {
+        "name": "Denmark (DKGEOID12A) ",
+        "links": [
+            "public/DKGEOID12A_20200210.isg"
+        ]
+    },
+    {
+        "name": "Ethiopia (ETH-GM21/ETH-QM21) ",
+        "links": [
+            "public/Ethiopia_2021_ETH-GM21_gravG_20211110.isg",
+            "public/Ethiopia_2021_ETH-GM21_gravG_20211110.isg"
+        ]
+    },
+    {
+        "name": "Europe (EGG97)",
+        "links": [
+            "public/EGG97Q_20170702.isg",
+            "public/EGG97_20170702.isg"
+        ]
+    },
+    {
+        "name": "Europe (EGG2008)",
+        "links": [
+            "public/EGG2008_20170702.isg"
+        ]
+    },
+    {
+        "name": "Europe (EGG2015)",
+        "links": [
+            "public/EGG2015_20170713.isg"
+        ]
+    },
+    {
+        "name": "France (QGF96) ",
+        "links": [
+            "public/QGF96_20161103.isg"
+        ]
+    },
+    {
+        "name": "France (RAF96) ",
+        "links": [
+            "public/RAF96_20161103.isg"
+        ]
+    },
+    {
+        "name": "France (GGF97)",
+        "links": [
+            "public/GGF97_20161103.isg"
+        ]
+    },
+    {
+        "name": "France (QGF98) ",
+        "links": [
+            "public/QGF98_20160928.isg"
+        ]
+    },
+    {
+        "name": "France (RAF98) ",
+        "links": [
+            "public/RAF98_20160928.isg"
+        ]
+    },
+    {
+        "name": "France (RAF09) ",
+        "links": [
+            "public/RAF09_20160928.isg"
+        ]
+    },
+    {
+        "name": "France (QGF16) ",
+        "links": [
+            "public/QGF16_20200211.isg"
+        ]
+    },
+    {
+        "name": "France (RAF18/RAF18B) ",
+        "links": [
+            "public/RAF18_20200211.isg",
+            "public/RAF18b_20200211.isg"
+        ]
+    },
+    {
+        "name": "Ghana (GGG2017) ",
+        "links": [
+            "public/Ghana_2017_GGG2017_gravG_20220616.isg"
+        ]
+    },
+    {
+        "name": "Great Britain (OSGM02)\r\n                    ",
+        "links": []
+    },
+    {
+        "name": "Great Britain (OSGM15)\r\n                    ",
+        "links": []
+    },
+    {
+        "name": "Greek Seas (NTUAMGv1)\r\n                    ",
+        "links": [
+            "public/NTUAMGv1_20200506.isg"
+        ]
+    },
+    {
+        "name": "Greenland (GGEOID16)\r\n                    ",
+        "links": [
+            "public/GGEOID2016_20200115.isg"
+        ]
+    },
+    {
+        "name": "Guayaquil - Ecuador (GEOID-GUAYAQUIL2019) ",
+        "links": [
+            "public/Guyaquil_2019_GEOID-GUAYAQUIL2019_geomG_20220330.isg"
+        ]
+    },
+    {
+        "name": "Guam and Northern Mariana Islands (USGG2009/GEOID09)\r\n                    ",
+        "links": [
+            "public/USGG2009g_20161121.isg",
+            "public/GEOID09g_20161111.isg"
+        ]
+    },
+    {
+        "name": "Guam and Northern Mariana Islands (USGG2012/GEOID12B)\r\n                    ",
+        "links": [
+            "public/USGG2012g_20161121C.isg",
+            "public/GEOID12Bg_20161111C.isg"
+        ]
+    },
+    {
+        "name": "Guam and Northern Mariana Islands (xGEOID20A)\r\n                    ",
+        "links": [
+            "public/Guam_2020_xGEOID20A_gravG_20210623.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (GEOID93) ",
+        "links": [
+            "public/HAW93_20160419.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (GEOID96) ",
+        "links": [
+            "public/HAWAII%20GEOID96_20160125.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (GEOID99) ",
+        "links": [
+            "public/GEOID99h_20161114.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (USGG03/GEOID03) ",
+        "links": [
+            "public/USGG2003h_20161121.isg",
+            "public/GEOID03h_20161114.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (USGG09/GEOID09) ",
+        "links": [
+            "public/USGG2009h_20161121.isg",
+            "public/GEOID09h_20191018.isg"
+        ]
+    },
+    {
+        "name": "Hawaiian\r\n                      Islands (USGG2012/GEOID12B) ",
+        "links": [
+            "public/USGG2012h_20161121.isg",
+            "public/GEOID12Bh_20161111.isg"
+        ]
+    },
+    {
+        "name": "Hungary (HGG2013)\r\n                      ",
+        "links": [
+            "public/HGG2013_20160416.isg"
+        ]
+    },
+    {
+        "name": "Iberian\r\n                      Peninsula (IGG2005) ",
+        "links": [
+            "public/IGG2005_20151210.isg"
+        ]
+    },
+    {
+        "name": "Iberian\r\n                      Peninsula (IBERGEO2008) ",
+        "links": [
+            "public/IBERGEO2008_20170531.isg"
+        ]
+    },
+    {
+        "name": "Iberia and Macaronesia (ICAGM07) ",
+        "links": [
+            "public/ICAGM07_20211123.isg"
+        ]
+    },
+    {
+        "name": "Iceland (ICEGEOID2011)",
+        "links": [
+            "public/ICEGEOID2011_20160419.isg"
+        ]
+    },
+    {
+        "name": "India (IndGG-CUT2021)",
+        "links": []
+    },
+    {
+        "name": "India (IndGG-SH2021)",
+        "links": []
+    },
+    {
+        "name": "India (IndGG-LSMSA2021)",
+        "links": []
+    },
+    {
+        "name": "Iran (IRG2018)",
+        "links": [
+            "public/IRG2018g_20190622.isg",
+            "public/IRG2018_20190622.isg"
+        ]
+    },
+    {
+        "name": "Italy (ITALGEO83)",
+        "links": [
+            "public/ITALGEO83_20160125.isg"
+        ]
+    },
+    {
+        "name": "Italy (ITALGEO90)",
+        "links": [
+            "public/ITALGEO90_20151210.isg"
+        ]
+    },
+    {
+        "name": "Italy (ITG2009) ",
+        "links": [
+            "public/ITG2009_20170606.isg"
+        ]
+    },
+    {
+        "name": "Japan (GSIGEO96)",
+        "links": [
+            "public/GSIGEO96_20161125.isg"
+        ]
+    },
+    {
+        "name": "Japan (GSIGEO2000)",
+        "links": [
+            "public/GSIGEO2000_20170701.isg"
+        ]
+    },
+    {
+        "name": "Japan (JGEOID2000)",
+        "links": [
+            "public/JGEOID2000_20170701.isg"
+        ]
+    },
+    {
+        "name": "Japan (JGEOID2008)",
+        "links": [
+            "public/JGEOID2008_20170629.isg"
+        ]
+    },
+    {
+        "name": "Japan (GSIGEO2011)",
+        "links": [
+            "public/GSIGEO2011_20170628.isg"
+        ]
+    },
+    {
+        "name": "Lake Vostok - Antarctica",
+        "links": [
+            "public/LVS2014-quasigeoid_20170717.isg",
+            "public/LVS2014-geoid_20170717.isg"
+        ]
+    },
+    {
+        "name": "Latvia (LV98)",
+        "links": [
+            "public/LV98_20160419.isg"
+        ]
+    },
+    {
+        "name": "Macas City - Ecuador (GEOID-MACAS2021)",
+        "links": [
+            "public/Macas_City_2021_GEOID-MACAS2021_geomG_20220519.isg"
+        ]
+    },
+    {
+        "name": "Madeira (GEOMAD)",
+        "links": [
+            "public/Madeira_2015_GEOMAD_gravG_20210203.isg"
+        ]
+    },
+    {
+        "name": "Mediterranean\r\n                      Sea (GEOMED) ",
+        "links": [
+            "public/GEOMED_20151210.isg"
+        ]
+    },
+    {
+        "name": "Mexico (MEXICO97) ",
+        "links": [
+            "public/MEXICO97_20151210.isg"
+        ]
+    },
+    {
+        "name": "Mexico (GGM04) ",
+        "links": [
+            "public/Mexico_2004_GGM04_gravG_20201209.isg"
+        ]
+    },
+    {
+        "name": "Mexico (GGM05) ",
+        "links": [
+            "public/Mexico_2005_GGM05_gravG_20201209.isg"
+        ]
+    },
+    {
+        "name": "Mexico (GGM06) ",
+        "links": [
+            "public/Mexico_2006_GGM06_gravG_20201209.isg"
+        ]
+    },
+    {
+        "name": "Mexico (GGM10) ",
+        "links": [
+            "public/Mexico_2010_GGM10_gravG_20201209.isg"
+        ]
+    },
+    {
+        "name": "Morocco (MORGEO) ",
+        "links": [
+            "public/MORGEO_20151210.isg"
+        ]
+    },
+    {
+        "name": "Netherlands (NLGEO2004) ",
+        "links": [
+            "public/NLGEO2004_20160125.isg"
+        ]
+    },
+    {
+        "name": "Netherlands (NLGEO2018) ",
+        "links": [
+            "public/NLGEO218_20191011.isg"
+        ]
+    },
+    {
+        "name": "New Zealand (NZGEOID05) ",
+        "links": [
+            "public/NZGEOID05_20191209.isg"
+        ]
+    },
+    {
+        "name": "New Zealand (NZGEOID09) ",
+        "links": [
+            "public/NZGEOID09_20161212.isg"
+        ]
+    },
+    {
+        "name": "New Zealand (NZGM2010) ",
+        "links": [
+            "NEWZEALAND/NEW_ZELAND_NZGM2010_20160516.isg"
+        ]
+    },
+    {
+        "name": "New Zealand (NZGEOID2016) ",
+        "links": [
+            "public/NZGEOID2016_20161102.isg"
+        ]
+    },
+    {
+        "name": "New Zealand (NZGEOID2017) ",
+        "links": [
+            "NEWZEALAND/NZGeoid2017_20191204.isg"
+        ]
+    },
+    {
+        "name": "North America - Pacific (xGEOID20A/xGEOID20B)\r\n                      ",
+        "links": [
+            "public/NorthAmerica-Pacific_2020_xGEOID20A_gravG_20210623.zip",
+            "public/NorthAmerica-Pacific_2020_xGEOID20B_gravG_20210623.zip"
+        ]
+    },
+    {
+        "name": "North Iberia (NIBGEO) ",
+        "links": [
+            "public/NIBGEO_20151210.isg"
+        ]
+    },
+    {
+        "name": "Northwest Pacific Ocean ",
+        "links": [
+            "public/PACIFIC76_20161102.isg"
+        ]
+    },
+    {
+        "name": "Papua New Guinea (PNG94) ",
+        "links": [
+            "public/PNG94_20151211.isg"
+        ]
+    },
+    {
+        "name": "Papua New Guinea (PNG08) ",
+        "links": [
+            "public/PNG08_20151210.isg"
+        ]
+    },
+    {
+        "name": "Philippines (PGM2014) ",
+        "links": [
+            "public/PGM2014_20171003.isg"
+        ]
+    },
+    {
+        "name": "Philippines (PGM2016) ",
+        "links": [
+            "public/PGM2016g_20171003.isg",
+            "public/PGM2016_20170926.isg"
+        ]
+    },
+    {
+        "name": "Philippines (PGM2018) ",
+        "links": [
+            "public/PGM2018g_20191105.isg",
+            "public/PGM2018_20191105.isg"
+        ]
+    },
+    {
+        "name": "Poland (quasi09c)",
+        "links": [
+            "public/POLAND_20151210.isg"
+        ]
+    },
+    {
+        "name": "Poland (KTH-PL-GEOID2015) ",
+        "links": [
+            "public/POLAND_KTH-PL-GEOID2015_15_G_20160729.isg"
+        ]
+    },
+    {
+        "name": "Poland (PL-quasi-geoid2021) ",
+        "links": [
+            "public/Poland_2021_PL_quasi-geoid-2021_hybrQ_20220119.isg"
+        ]
+    },
+    {
+        "name": "Portugal (GEODPT08) ",
+        "links": [
+            "public/GEODPT08_20211122.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (GEOID93) ",
+        "links": [
+            "public/PRVI93_20160419.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (GEOID96) ",
+        "links": [
+            "public/GEOID96p_20161114.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (GEOID99) ",
+        "links": []
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (USGG03/GEOID03) ",
+        "links": [
+            "public/USGG2003p_20161121.isg",
+            "public/GEOID03p_20161114.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (USGG09/GEOID09) ",
+        "links": [
+            "public/USGG2009p_20161121.isg",
+            "public/GEOID09p_20161111.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and\r\n                      Virgin Islands (USGG2012/GEOID12B) ",
+        "links": [
+            "public/USGG2012h_20161121.isg",
+            "public/GEOID12B_20161111.isg"
+        ]
+    },
+    {
+        "name": "Puerto Rico and Virgin Islands (xGEOID19B/GEOID18) ",
+        "links": [
+            "../USA/public/USA_2019_xGEOID19_gravG_20201122.isg",
+            "public/PRVI_2018_GEOID18_hybrG_20201201.isg"
+        ]
+    },
+    {
+        "name": "Reunion Island (GGR99) ",
+        "links": [
+            "public/GGR99_20161115.isg"
+        ]
+    },
+    {
+        "name": "Reunion Island (QGGR06) ",
+        "links": [
+            "public/QGGR06_20161115.isg"
+        ]
+    },
+    {
+        "name": "Reunion Island (RAR07) ",
+        "links": [
+            "public/RAR07_20161115.isg"
+        ]
+    },
+    {
+        "name": "Russia (RGG-2003) ",
+        "links": [
+            "public/RGG2003_20190907.isg"
+        ]
+    },
+    {
+        "name": "Santa Fe Province - Argentina",
+        "links": [
+            "public/SANTAFE_DIR_R5_200_20180403.isg",
+            "public/SANTAFE_DIR_R5_300_20180403.isg",
+            "public/SANTAFE_EIGEN6C4_200_20180403.isg",
+            "public/SANTAFE_EIGEN6C4_300_20180403.isg"
+        ]
+    },
+    {
+        "name": "S\u00e3o Paulo State - Brazil (GEOID-SP) ",
+        "links": [
+            "public/Sao_Paulo_2014_GEOID-SP-2014-FFT_gravG_20220330.isg",
+            "public/Sao_Paulo_2014_GEOID-SP-2014-LSC_gravG_20220330.isg"
+        ]
+    },
+    {
+        "name": "S\u00e3o Paulo State - Brazil (GEOID-SP) \r\n\t\t\t\t\t",
+        "links": [
+            "public/Sao_Paulo_2020_QGEOID-SP-2020-GGM250_gravQ_20220401.isg",
+            "public/Sao_Paulo_2020_GEOID-SP-2020-GGM250_gravG_20220401.isg",
+            "public/Sao_Paulo_2020_QGEOID-SP-2020-GGM720_gravQ_20220401.isg",
+            "public/Sao_Paulo_2020_GEOID-SP-2020-GGM720_gravG_20220401.isg"
+        ]
+    },
+    {
+        "name": "Skagerrak Sea",
+        "links": [
+            "public/SKAGGERAK_Sea_00_G_20160610.isg"
+        ]
+    },
+    {
+        "name": "Slovakia (DVRM05)",
+        "links": [
+            "public/DVRM05_20170528.isg"
+        ]
+    },
+    {
+        "name": "Slovenia (SLOAMG2000) ",
+        "links": [
+            "public/SLOAMG2000_20170313.isg"
+        ]
+    },
+    {
+        "name": "South\r\n                      America",
+        "links": [
+            "public/SOUTH AMERICA_20151211.isg"
+        ]
+    },
+    {
+        "name": "South\r\n                      America (GEOID2015)",
+        "links": [
+            "public/GEOID2015_20160414.isg"
+        ]
+    },
+    {
+        "name": "South America (GEOID2021/QGEOID2021)",
+        "links": [
+            "public/South_America_2021_QGEOID2021_gravG_20220411.isg",
+            "public/South_America_2021_GEOID2021_gravG_20220411.isg"
+        ]
+    },
+    {
+        "name": "South\r\n                      Africa (SAGEOID10)",
+        "links": [
+            "public/SAGEOID10_20151211.isg"
+        ]
+    },
+    {
+        "name": "South Spain and the Gibraltar Strait Area (SOSGIS) ",
+        "links": [
+            "public/SOSGIS_20151210.isg"
+        ]
+    },
+    {
+        "name": "Sudan (SUD-GM2014) ",
+        "links": [
+            "public/Sudan_2014_SUD-GM2014_gravG_20211125.isg"
+        ]
+    },
+    {
+        "name": "Sweden (SWEN08_RH70) ",
+        "links": [
+            "public/SWEN08_RH70_20190509.isg"
+        ]
+    },
+    {
+        "name": "Sweden (SWEN08_RH2000) ",
+        "links": [
+            "public/SWEN08_RH2000_20190509.isg"
+        ]
+    },
+    {
+        "name": "Sweden (SWEN17_RH70) ",
+        "links": [
+            "public/SWEN17_RH70_20190509.isg"
+        ]
+    },
+    {
+        "name": "Sweden (SWEN17_RH2000) ",
+        "links": [
+            "public/SWEN17_RH2000_20190509.isg"
+        ]
+    },
+    {
+        "name": "Syowa Station - Antarctica ",
+        "links": [
+            "public/SYOWA STATION_20160419.isg"
+        ]
+    },
+    {
+        "name": "Tahiti ",
+        "links": [
+            "public/THAITIg_20200213.isg",
+            "public/THAITIh_20200213.isg"
+        ]
+    },
+    {
+        "name": "Taiwan (TWGEOID2018)",
+        "links": [
+            "public/Taiwan_2018_TWGEOID2018g_gravG_20201201.isg",
+            "public/Taiwan_2018_TWGEOID2018h_gravG_20201201.isg"
+        ]
+    },
+    {
+        "name": "Tanzania ",
+        "links": [
+            "public/TANZANIA_20151222.isg"
+        ]
+    },
+    {
+        "name": "Tanzania (TZG08)",
+        "links": [
+            "public/TZG08_20161114.isg"
+        ]
+    },
+    {
+        "name": "Tunisia (TNG)",
+        "links": [
+            "public/TNG_20180320.isg"
+        ]
+    },
+    {
+        "name": "Turkey (TG-20) ",
+        "links": []
+    },
+    {
+        "name": "Uganda (UGG2014)\r\n                       ",
+        "links": [
+            "public/UGG2014_20151222.isg"
+        ]
+    },
+    {
+        "name": "Ukraine (UGG2013)\r\n                       ",
+        "links": [
+            "public/UGG2013_20151211.isg"
+        ]
+    },
+    {
+        "name": "Uruguay (URUGEOIDE2000)",
+        "links": [
+            "public/URUGEOIDE2000_20171005.isg"
+        ]
+    },
+    {
+        "name": "Uruguay (URUGEOIDE2007) ",
+        "links": [
+            "public/URUGEOIDE2007_20171005.isg"
+        ]
+    },
+    {
+        "name": "USA (GEOID90) ",
+        "links": [
+            "public/GEOID90_20160419.isg"
+        ]
+    },
+    {
+        "name": "USA (GEOID93) ",
+        "links": [
+            "public/GEOID93_20160419.isg"
+        ]
+    },
+    {
+        "name": "USA (G96SSS/GEOID96) ",
+        "links": [
+            "public/G96SSS_20161103.isg",
+            "public/GEOID96u_20161114.isg"
+        ]
+    },
+    {
+        "name": "USA (G99SSS/GEOID99) ",
+        "links": [
+            "public/G99SS_20161104.isg",
+            "public/GEOID99u_20161114.isg"
+        ]
+    },
+    {
+        "name": "USA (USGG2003/GEOID03) ",
+        "links": [
+            "public/USGG2003u_20161121.isg",
+            "public/GEOID03u_20161114.isg"
+        ]
+    },
+    {
+        "name": "USA (USGG2009/GEOID09) ",
+        "links": [
+            "public/USGG2009u_20161121.isg",
+            "public/GEOID09u_20161111.isg"
+        ]
+    },
+    {
+        "name": "USA (USGG2012/GEOID12B) ",
+        "links": [
+            "public/USGG2012u_20161121.isg",
+            "public/GEOID12Bu_20161111.isg"
+        ]
+    },
+    {
+        "name": "USA (xGEOID19B/GEOID18) ",
+        "links": [
+            "public/USA_2019_xGEOID19_gravG_20201122.isg",
+            "public/USA_2018_GEOID18_hybrG_20201122.isg"
+        ]
+    },
+    {
+        "name": "Vietnam ",
+        "links": [
+            "public/GEOID_FFT_20190703.isg",
+            "public/GEOID_LSC_20190703.isg"
+        ]
+    },
+    {
+        "name": "Weddell Sea - Antarctica ",
+        "links": [
+            "public/WEDDEL SEA_20151211.isg"
+        ]
+    },
+    {
+        "name": "Xinjiang and Tibet - China ",
+        "links": [
+            "public/XINIJIANG_TIBET_2003_XINIJIANG_TIBET_gravG_20200803.isg"
+        ]
+    }
+]
